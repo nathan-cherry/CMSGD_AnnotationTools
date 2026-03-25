@@ -21,7 +21,7 @@ The repository is organized into two distinct versions of the tool. Both are ful
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [Repository URL]
+    git clone https://github.com/nathan-cherry/CMSGD_AnnotationTools.git
     ```
 
 2.  Install dependencies:
