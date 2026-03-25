@@ -16,7 +16,7 @@ The repository is organized into two distinct versions of the tool. Both are ful
 ### Prerequisites
 * Python 3.x
 * Required dependencies (see `requirements.txt`)
-* **Dataset Access:** You will need the XML annotation files and the source imagery. These can be retrieved from the [Dataset Repository Link Here].
+* **Dataset Access:** You will need the XML annotation files and the source imagery. These can be retrieved from the [CMSGD Repository](https://github.com/nathan-cherry/CMSGD.git).
 
 ### Installation
 1.  Clone the repository:
